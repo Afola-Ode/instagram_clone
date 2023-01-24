@@ -3,3 +3,18 @@
     grid-template-columns: 1fr 2fr 1fr;
     grid-column-gap: 10px;
   }
+  .sidebar__menu{
+    display: flex;
+    align-items: center;
+    margin: 0.5rem 0;
+  }
+  .left__container{
+    padding: 1rem;
+  }
+  .icon{
+    margin-right: 1rem;
+  }
+  .sidebar__menu h2{
+    font-weight: 600;
+    font-size: 16px;
+  }
